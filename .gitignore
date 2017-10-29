@@ -1,3 +1,6 @@
 ##folders
 .idea
 node_modules
+
+##files
+server/config/config.json
